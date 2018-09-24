@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5692e2b-9ce4-47a1-9ec8-8b2539d3f1a5" name="Default Changelist" comment="" />
+    <list default="true" id="b5692e2b-9ce4-47a1-9ec8-8b2539d3f1a5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plane_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/plane_main.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,13 +26,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="png" value="7" />
+          <entry key="png" value="8" />
           <entry key="py" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Image" value="7" />
+          <entry key="Image" value="8" />
           <entry key="Python" value="5" />
         </counts>
       </usages-collector>
@@ -47,25 +50,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/plane_main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="83" column="31" lean-forward="true" selection-start-line="83" selection-start-column="31" selection-end-line="83" selection-end-column="31" />
+            <state relative-caret-position="133">
+              <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
-                <marker date="1537786401620" expanded="true" signature="66:67" ph="..." />
-                <marker date="1537786401620" expanded="true" signature="66:72" ph="..." />
-                <marker date="1537786401620" expanded="true" signature="407:745" ph="..." />
-                <marker date="1537786401620" expanded="true" signature="771:1473" ph="..." />
-                <marker date="1537786401620" expanded="true" signature="1806:2121" ph="..." />
-                <marker date="1537786401620" expanded="true" signature="2157:2222" ph="..." />
+                <marker date="1537786913529" expanded="true" signature="66:67" ph="..." />
+                <marker date="1537786913529" expanded="true" signature="66:72" ph="..." />
+                <marker date="1537786913529" expanded="true" signature="407:745" ph="..." />
+                <marker date="1537786913529" expanded="true" signature="771:1473" ph="..." />
+                <marker date="1537786913529" expanded="true" signature="1805:2120" ph="..." />
+                <marker date="1537786913529" expanded="true" signature="2156:2221" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/plane_sprites.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="912">
@@ -92,6 +95,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -107,12 +113,13 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="52" />
     <option name="y" value="21" />
     <option name="width" value="1750" />
     <option name="height" value="970" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -242,11 +249,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="49" y="35" width="1400" height="776" extended-state="0" />
+    <frame x="42" y="17" width="1400" height="776" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962743" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962743" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
@@ -256,7 +263,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32868218" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32919255" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -303,6 +310,25 @@
     <entry file="file://$PROJECT_DIR$/images/bullet1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/plane_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+            <marker date="1537786913529" expanded="true" signature="66:67" ph="..." />
+            <marker date="1537786913529" expanded="true" signature="66:72" ph="..." />
+            <marker date="1537786913529" expanded="true" signature="407:745" ph="..." />
+            <marker date="1537786913529" expanded="true" signature="771:1473" ph="..." />
+            <marker date="1537786913529" expanded="true" signature="1805:2120" ph="..." />
+            <marker date="1537786913529" expanded="true" signature="2156:2221" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/again.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/plane_sprites.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="912">
@@ -315,22 +341,6 @@
             <marker date="1537786004029" expanded="true" signature="522:527" ph="..." />
             <marker date="1537786004029" expanded="true" signature="713:884" ph="..." />
             <marker date="1537786004029" expanded="true" signature="1143:1148" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plane_main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="83" column="31" lean-forward="true" selection-start-line="83" selection-start-column="31" selection-end-line="83" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-            <marker date="1537786401620" expanded="true" signature="66:67" ph="..." />
-            <marker date="1537786401620" expanded="true" signature="66:72" ph="..." />
-            <marker date="1537786401620" expanded="true" signature="407:745" ph="..." />
-            <marker date="1537786401620" expanded="true" signature="771:1473" ph="..." />
-            <marker date="1537786401620" expanded="true" signature="1806:2121" ph="..." />
-            <marker date="1537786401620" expanded="true" signature="2157:2222" ph="..." />
           </folding>
         </state>
       </provider>

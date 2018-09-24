@@ -53,7 +53,6 @@ class PlaneGame():
         if len(enemies) > 0:
             self.hero.kill()
             self.__game_over()
-
         pass
 
     def __update_sprites(self):
@@ -90,7 +89,6 @@ class PlaneGame():
             self.__update_sprites()
             #5更新显示
             pygame.display.update()
-
 
 if __name__ == '__main__':
 
